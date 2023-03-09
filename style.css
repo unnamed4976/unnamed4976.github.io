@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+
+h1{
+  background: pink;
+  margin: 0;
+  text-align: center;
+  padding: 4px;
+  font-size: 100px;
+}
+
+p {
+  background: lightgrey;
+  font-size: 40px;
+  text-align: center;
+}
